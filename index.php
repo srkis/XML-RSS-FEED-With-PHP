@@ -1,4 +1,20 @@
 <?php include_once 'getRSS.php'; ?>
+
+<!--
+
+***********************************************
+* Author: Srdjan Stojanovic                   *
+* Author URL: http:srdjan.icodes.rocks        *
+* Email: stojanovicsrdjan@programmer.net      *
+* THANK YOU FOR INTERESTING FOR MY CODE:)     *
+*                                             *
+********************************************* *
+
+-->
+
+
+
+
 <html lang="en">
 
 <head>
