@@ -122,7 +122,8 @@
 
         }
         
-
+// When page load this else will show a default portal news. When you use select and press button rss content will change and show 
+// news from portal you choose in select.
 
 }else{ ?>
 
