@@ -1,3 +1,16 @@
+<!--
+
+***********************************************
+* Author: Srdjan Stojanovic                   *
+* Author URL: http:srdjan.icodes.rocks        *
+* Email: stojanovicsrdjan@programmer.net      *
+* THANK YOU FOR INTERESTING FOR MY CODE:)     *
+*                                             *
+********************************************* *
+
+-->
+
+
 <?php
 
 function getRSS($link){
